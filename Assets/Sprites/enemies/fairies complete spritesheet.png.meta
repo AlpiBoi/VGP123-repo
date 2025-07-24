@@ -1,0 +1,3156 @@
+fileFormatVersion: 2
+guid: 96bf465148ec2084ab9d54d799b4b75d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2480870563895475248
+    second: fairies complete spritesheet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fGreenWalk1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d38949cd5d229dd0800000000000000
+      internalID: -2480870563895475248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenWalk2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 302
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952dbce3725ab1b4796ec9900ddf9fc2
+      internalID: 1618455833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenWalk3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 302
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e98a2f1aff00c4587889e662d647b2
+      internalID: 570220347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenWalk4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 302
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3468a2485f913845a49c78d2ab14d0a
+      internalID: -1409999766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenWalk5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 302
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195ece732964ece42832ce45775fc3cf
+      internalID: 262064890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenWalk6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 302
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a779ff13913a57448d762a8892a26c9
+      internalID: -1283031462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenWalk8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 302
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bae63de833ea04485176a70c65bf28
+      internalID: 1324749929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenAttack1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 200
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621ca9cfd6583a646a8470dae2b5cf98
+      internalID: -763409885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenAttack2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 200
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec01d18ad46f0d49b32822a7a53884c
+      internalID: -1957317340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenAttack
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 200
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546600f6efb0b4a468b39a212389c8a5
+      internalID: 607480259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenAttack4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 200
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db06a973f48ecd43ad730b884f2881a
+      internalID: -941205772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenAttack5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 200
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef66ac0f031e94ba0fee7d8667699d
+      internalID: 1475075241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenAttack6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 200
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48150f7e88a769a49ad6be67591a8419
+      internalID: 770524532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenAttack7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 200
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1af5ccea84e98f44a6fc4aeda2f18d2
+      internalID: 1553577077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenAttack8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 200
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af1c7b161832e040bded02d9397a427
+      internalID: 958334245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenDeath1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26c266459e0ee34a9992c3029496242
+      internalID: 968955985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenDeath2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f38feb9f86eb9e4f90638cbecfa6cbb
+      internalID: 640538738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenDeath3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bd8538dbaba5c428b62b1b39ed3e8f
+      internalID: 1278989187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenDeath4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c0634863cb744d921a60014321651
+      internalID: 1401209995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenDeath5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e06cbd5dc70174794fbc3520986c7e
+      internalID: 2008523186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenDeath6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 96
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73639fbe930d46e4689794502839d586
+      internalID: -1018849186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedDeath1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 79
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cdda659e6a7134aa6eeed196e3c182
+      internalID: -367337225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedDeath2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 79
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad4071b611ec7f45859c2e696227d82
+      internalID: 1409557690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedDeath3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 79
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9df0541db0f7c947befc0f45771165d
+      internalID: -1692089379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedDeath4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 79
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b74bfb5fe8b0543a536fa9f7b13ba1
+      internalID: -524169971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedDeath5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 79
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b621a787c5a86f438b61a4ce3a9c0d5
+      internalID: -580607606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedDeath6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 79
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fd520e2d1c94d4aba676066d4e2053
+      internalID: 673512217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedAttack1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 183
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63f0c56cff105b4cb6a59f92203df66
+      internalID: -1738243327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedAttack2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 183
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda961891279ffa499dd565e7686e768
+      internalID: -1765087920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedAttack3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 183
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a2faa48baf82541baf372e1e99079f
+      internalID: -206107244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedAttack4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 183
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f411791c564ec48840e137e9fc67ab
+      internalID: 1925138953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedAttack5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 183
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b10846b7a5eb147a08d9b2b1603a6e
+      internalID: -521570914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedAttack6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 183
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b4cc6153b6bc47a2714bacb6725e7
+      internalID: -159937945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedAttack7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 183
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1596cbad829804fb6b30cc2688dd10
+      internalID: 291117103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedAttack8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 183
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76f7cd71e2231f45bc97d53daf51ae4
+      internalID: -2108943874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedWalk1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 285
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0980ebb2f3b2b846a27ae5b5ea9bbef
+      internalID: 2024849558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedWalk2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 285
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fdc7c3b281abe45a86b4286e2e1177
+      internalID: -1131240829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedWalk3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 285
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792fb6c5c9c03084a9330737998a64bb
+      internalID: -1689283324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedWalk4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 285
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96f212f7b9a32e41bfe0eed40a31fbd
+      internalID: -2146084652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedWalk5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 285
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2654d5440a528ef43b3c69c28b7cd302
+      internalID: -319346283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedWalk6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 285
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8277f9926e084e046baed78af23f33f1
+      internalID: 1959601935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedWalk8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 285
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99af668f471ab2842ba7a1434e10aecd
+      internalID: 816744551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteWalk1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 268
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f1431205c023f4fa1186f2794b12d2
+      internalID: 897772660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteWalk2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 268
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffa851438fbfab4b8ccf461c02b9031
+      internalID: 437618315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteWalk3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 268
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ce70529a8a52642a2f28af5e6aeddc
+      internalID: 322203408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteWalk4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 268
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89da3fc5192f85a4fb87866eec6fcb66
+      internalID: -1677622036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteWalk5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 268
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb5be90fc7c8348913d3e8ca4a8cd9
+      internalID: 896791163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteWalk6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 268
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6a34ec2122b5745a5f047f2b2538b3
+      internalID: 278349356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteWalk7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 268
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca98b61716a6445b7ce1fd816a2e5b
+      internalID: 664284487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteWalk8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 268
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a639f295538cb43bf36b8b8957683a
+      internalID: -900993262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fRedWalk7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 285
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fab1f98bc654f24994017fbfb5afaa1
+      internalID: 1550873321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fGreenWalk7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 302
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0af07751ada64429b3ff0ed7cb979f
+      internalID: -1595478092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteAttack1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 166
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f4f7f2021ce9478d6692846b00ead
+      internalID: 252600618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteAttack2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 166
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57541dbaf0dd8443ba904c896f2bc33
+      internalID: 47071456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteAttack3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 166
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6842c105d55fde84fba4a8855c240113
+      internalID: -1390527379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteAttack4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 166
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96776806b78ad14183f9be71060cdce
+      internalID: -1332987963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteAttack5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 166
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a0b3b5c8a51cd4eb9e4842e37a4e3a
+      internalID: 209645494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteAttack6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 166
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bd77343249ac842ad3a716e08291e0
+      internalID: 752296291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteAttack7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 166
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd78296a6b8de8438459c4b4c68f129
+      internalID: -1016806899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteAttack8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 166
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d7214b7ee9f6479772dc77496f76b
+      internalID: 1838680430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteDeath1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b88193c1c38f246b42b6d35b69bcab
+      internalID: -1068829244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteDeath2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 62
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8162c887f5101e4c842f17cfddb7563
+      internalID: 265463558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteDeath3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528e922728a8fbf44a01713fca212481
+      internalID: -2119205525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteDeath4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6303ec802b835c247baeb71e07f82f34
+      internalID: 1833553631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteDeath5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 62
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f0f7f828b9381479ed35ee7385e8c2
+      internalID: -786583047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fWhiteDeath6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 62
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dfc318393907142bb961eb716fda39
+      internalID: 1642762826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueDeath1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 45
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a321bad956bffb84ca0149b24d34a6de
+      internalID: 771209359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueDeath2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 45
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61cfa7b0f82cf04a8844914f5e7feb8
+      internalID: 1763119386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueDeath3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 45
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddc939ca3152aa46b425e01cff266a4
+      internalID: 1348239699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueDeath4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 45
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105a0f6dbd76c2e49879488ae633594d
+      internalID: 11458821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueDeath5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 45
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deec9ed7ebb1e544f8d3dcc16fbb9365
+      internalID: -1565014526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueDeath6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 45
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c853b429bcf3e48a55f99e76ccdc3c
+      internalID: 85029081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueAttack1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196956bfc8cc2c54eb2bc50faa5df751
+      internalID: 1238217453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueAttack2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 149
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2f8e6b101040a488d08a143167b097
+      internalID: 1698483789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueAttack3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 149
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ee53e401a88e46bd218051e7051f3
+      internalID: -470090876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueAttack4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 149
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d052563ebb6158446bf78bbb424daca1
+      internalID: -297883896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueAttack5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 149
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458e33db4fb58f34290cb51ae57b7b97
+      internalID: 157439908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueAttack6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 149
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1325765be8f814fb6852029cf49c47
+      internalID: 946300271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueAttack7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 149
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74befbaa6bbac5844a7b1aa51b012e38
+      internalID: 1076795448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueAttack8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 149
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f16f3fc14f6fd4d964f6a212f502db
+      internalID: -1456676359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueWalk1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 251
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f537636631b4ce42a28468c4629da43
+      internalID: 632805293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueWalk2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 251
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22d2c56d52970c4d99b607c1401feaf
+      internalID: 1019190846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueWalk3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 251
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cab903c2e1a61c4fb6047ac3fa753ca
+      internalID: 1068839095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueWalk4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 251
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a6bb2ce7f8524da5e36aa23fdbdb4
+      internalID: 1891636725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueWalk5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 251
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6b18607c8cf13468c9b3c306e8af49
+      internalID: -1971708146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueWalk6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 251
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1ac0b8ada399045a06da820e91741a
+      internalID: 1822331277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueWalk7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 251
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e94ed11cb25b44cbf3055bbd5f6789
+      internalID: -1153229235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fBlueWalk8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 251
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a026311753bab44be7d1e57bd20662
+      internalID: 309518790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowWalk1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e175948d40bf0649a8e87e1c3212aba
+      internalID: -1132737302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowWalk2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 234
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31989225b43b2489195302c51a6b82
+      internalID: -1570369045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowWalk3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 234
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4636375bfc9203c46b37ca650f8cd54b
+      internalID: 1152144485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowWalk4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 234
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f004caea92b9e57478d1ee3a8a2035a1
+      internalID: -158245239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowWalk5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 234
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e0670cbb07a44d89018930fec4977
+      internalID: 932957677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowWalk6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 234
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5b3ac599c60e545a931d6d9971f4f3
+      internalID: 2014053709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowWalk7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 234
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb87cb18ddbb6084fbf337c0ef22ad29
+      internalID: 541910591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowWalk8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 234
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cac05a106d9466428a0dfb92d2e650c
+      internalID: -2135087375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkWalk8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 217
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c69501ad0e4564780645e8c4fffff8
+      internalID: -2030162019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkWalk7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 217
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4caeeb59c1269a4bb440ff9d72f98a3
+      internalID: -1088115678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkWalk6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 217
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e456c9835aaa44d93bd7eb3f25ccca
+      internalID: -972798990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkWalk5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 217
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af94b466d58dcd84e97f537db5053931
+      internalID: 182546370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkWalk4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 217
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee16b501b5c68648a8d18f417a724c2
+      internalID: -652042775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkWalk3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 217
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2814b7a3a1d68646ab49b1bde030036
+      internalID: 1051187394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkWalk2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 217
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420e9ec729a45704a8ec53eed0ca96b4
+      internalID: 2107431225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkWalk1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 217
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b66ee5645e9640b8ecfe840aafa89
+      internalID: -34534348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowAttack1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 132
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48c623eac3a9e444846657070aaa6c4
+      internalID: 2064731770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowAttack2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 132
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd74d7eaecef6844a47744b19dfa518
+      internalID: 445848292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowAttack3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff32cce5818be46a4da70695d25aa2
+      internalID: -2139898762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowAttack4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 132
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e8d56342da84342af58e01a9ce40c9
+      internalID: -1278523169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowAttack5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d54a80f780594d983291461d6ffa1
+      internalID: -479788538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowAttack6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 132
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09468a84e0ea6ac478f1935aa6721bb9
+      internalID: 1956876967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowAttack7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 132
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e110a902320ea3428e307135065852e
+      internalID: -617637234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowAttack8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 132
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185955d3bd5c3044ab4135fcb0aa2dad
+      internalID: 1506265119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkAttack8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 115
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6283e1f307d5f0b4999d1e427f354d93
+      internalID: -1254428572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkAttack7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 115
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d744a7f62ef7c4d95998d1be914b1f
+      internalID: 25609524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkAttack6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 115
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb61fa27cfaec243b80045c97103dfb
+      internalID: 1127209184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkAttack5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 115
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbef56c81a15b843b6c5acf83dbaa28
+      internalID: -78359176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkAttack4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 115
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c979e6357c5ea5c48a504cfe99cc8099
+      internalID: 1320273986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkAttack3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 115
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29b08b0d0ee1e24c866fbd7859f9a3f
+      internalID: -1799343237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkAttack2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 115
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3805483c9658cf448ae492d90dbb25e1
+      internalID: 1813772822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkAttack1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f72227052911744a9d65e11db89625
+      internalID: 829556939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowDeath1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9547409485060c43bea3717511e2dc1
+      internalID: -1344411607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowDeath2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 28
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441bc80be4d75f04c81158b045cb5bad
+      internalID: -1824693198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowDeath3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 28
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1305edad7f966c54e8138203e310cc75
+      internalID: -606757982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowDeath4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 28
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4373f1afa29b8341962025816cf8ae3
+      internalID: 986643173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowDeath5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 28
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d46352cb28bf0478d743bcf1707d81
+      internalID: -1030312381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fYellowDeath6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 28
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de058e665c0c7764db8e1783541b2a74
+      internalID: -1687656664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkDeath1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f96e57c24f582a489f2281da5b3fde7
+      internalID: -718175953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkDeath2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 11
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54a2fb447591b844b257c30f82a794a
+      internalID: 209135500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkDeath3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 11
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f72dbf2e310e4f9b7d43f5331a58a
+      internalID: 714786872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkDeath4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 11
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764b5dbccd86c884bb02bf8eeda76564
+      internalID: -171348770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkDeath5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 11
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b005ab9f97f07564c8c570f58a46e262
+      internalID: -1599036318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fPinkDeath6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b757accf8e057e4f985097b951f607c
+      internalID: -1163690465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c887b6e2b232f27428fbaeabda9e7a5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fBlueAttack1: 1238217453
+      fBlueAttack2: 1698483789
+      fBlueAttack3: -470090876
+      fBlueAttack4: -297883896
+      fBlueAttack5: 157439908
+      fBlueAttack6: 946300271
+      fBlueAttack7: 1076795448
+      fBlueAttack8: -1456676359
+      fBlueDeath1: 771209359
+      fBlueDeath2: 1763119386
+      fBlueDeath3: 1348239699
+      fBlueDeath4: 11458821
+      fBlueDeath5: -1565014526
+      fBlueDeath6: 85029081
+      fBlueWalk1: 632805293
+      fBlueWalk2: 1019190846
+      fBlueWalk3: 1068839095
+      fBlueWalk4: 1891636725
+      fBlueWalk5: -1971708146
+      fBlueWalk6: 1822331277
+      fBlueWalk7: -1153229235
+      fBlueWalk8: 309518790
+      fGreenAttack: 607480259
+      fGreenAttack1: -763409885
+      fGreenAttack2: -1957317340
+      fGreenAttack4: -941205772
+      fGreenAttack5: 1475075241
+      fGreenAttack6: 770524532
+      fGreenAttack7: 1553577077
+      fGreenAttack8: 958334245
+      fGreenDeath1: 968955985
+      fGreenDeath2: 640538738
+      fGreenDeath3: 1278989187
+      fGreenDeath4: 1401209995
+      fGreenDeath5: 2008523186
+      fGreenDeath6: -1018849186
+      fGreenWalk1: -2480870563895475248
+      fGreenWalk2: 1618455833
+      fGreenWalk3: 570220347
+      fGreenWalk4: -1409999766
+      fGreenWalk5: 262064890
+      fGreenWalk6: -1283031462
+      fGreenWalk7: -1595478092
+      fGreenWalk8: 1324749929
+      fPinkAttack1: 829556939
+      fPinkAttack2: 1813772822
+      fPinkAttack3: -1799343237
+      fPinkAttack4: 1320273986
+      fPinkAttack5: -78359176
+      fPinkAttack6: 1127209184
+      fPinkAttack7: 25609524
+      fPinkAttack8: -1254428572
+      fPinkDeath1: -718175953
+      fPinkDeath2: 209135500
+      fPinkDeath3: 714786872
+      fPinkDeath4: -171348770
+      fPinkDeath5: -1599036318
+      fPinkDeath6: -1163690465
+      fPinkWalk1: -34534348
+      fPinkWalk2: 2107431225
+      fPinkWalk3: 1051187394
+      fPinkWalk4: -652042775
+      fPinkWalk5: 182546370
+      fPinkWalk6: -972798990
+      fPinkWalk7: -1088115678
+      fPinkWalk8: -2030162019
+      fRedAttack1: -1738243327
+      fRedAttack2: -1765087920
+      fRedAttack3: -206107244
+      fRedAttack4: 1925138953
+      fRedAttack5: -521570914
+      fRedAttack6: -159937945
+      fRedAttack7: 291117103
+      fRedAttack8: -2108943874
+      fRedDeath1: -367337225
+      fRedDeath2: 1409557690
+      fRedDeath3: -1692089379
+      fRedDeath4: -524169971
+      fRedDeath5: -580607606
+      fRedDeath6: 673512217
+      fRedWalk1: 2024849558
+      fRedWalk2: -1131240829
+      fRedWalk3: -1689283324
+      fRedWalk4: -2146084652
+      fRedWalk5: -319346283
+      fRedWalk6: 1959601935
+      fRedWalk7: 1550873321
+      fRedWalk8: 816744551
+      fWhiteAttack1: 252600618
+      fWhiteAttack2: 47071456
+      fWhiteAttack3: -1390527379
+      fWhiteAttack4: -1332987963
+      fWhiteAttack5: 209645494
+      fWhiteAttack6: 752296291
+      fWhiteAttack7: -1016806899
+      fWhiteAttack8: 1838680430
+      fWhiteDeath1: -1068829244
+      fWhiteDeath2: 265463558
+      fWhiteDeath3: -2119205525
+      fWhiteDeath4: 1833553631
+      fWhiteDeath5: -786583047
+      fWhiteDeath6: 1642762826
+      fWhiteWalk1: 897772660
+      fWhiteWalk2: 437618315
+      fWhiteWalk3: 322203408
+      fWhiteWalk4: -1677622036
+      fWhiteWalk5: 896791163
+      fWhiteWalk6: 278349356
+      fWhiteWalk7: 664284487
+      fWhiteWalk8: -900993262
+      fYellowAttack1: 2064731770
+      fYellowAttack2: 445848292
+      fYellowAttack3: -2139898762
+      fYellowAttack4: -1278523169
+      fYellowAttack5: -479788538
+      fYellowAttack6: 1956876967
+      fYellowAttack7: -617637234
+      fYellowAttack8: 1506265119
+      fYellowDeath1: -1344411607
+      fYellowDeath2: -1824693198
+      fYellowDeath3: -606757982
+      fYellowDeath4: 986643173
+      fYellowDeath5: -1030312381
+      fYellowDeath6: -1687656664
+      fYellowWalk1: -1132737302
+      fYellowWalk2: -1570369045
+      fYellowWalk3: 1152144485
+      fYellowWalk4: -158245239
+      fYellowWalk5: 932957677
+      fYellowWalk6: 2014053709
+      fYellowWalk7: 541910591
+      fYellowWalk8: -2135087375
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
