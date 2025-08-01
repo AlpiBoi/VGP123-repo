@@ -1,6 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D),typeof(SpriteRenderer),typeof(Collider2D))]
+[RequireComponent(typeof(Animator))]
 public class playerController : MonoBehaviour
 {
     [SerializeField] private float groundCheckRadius = 0.02f;
@@ -11,6 +12,7 @@ public class playerController : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     private Collider2D col;
+    private Animator anim;
 
     private Vector2 groundCheckPos;
     Vector2 GetGroundCheckPos()
@@ -24,6 +26,7 @@ public class playerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         col = GetComponent<Collider2D>();
+        anim = GetComponent<Animator>();
 
 
         groundLayer = LayerMask.GetMask("Ground");
@@ -47,6 +50,13 @@ public class playerController : MonoBehaviour
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             rb.AddForce(Vector2.up * 10f, ForceMode2D.Impulse);
+        }
+        anim.SetFloat("hValue", Mathf.Abs(hValue));
+        anim.SetBool("isGrounded", isGrounded);
+        
+        if (Input.GetButtonDown("Sprint"))
+        {
+            
         }
     }
 
